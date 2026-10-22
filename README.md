@@ -43,7 +43,7 @@ Today I design and build the web side of [Loop Studio](https://theloopstudio.org
 
 ## Live sites
 
-Real businesses, online today, built with [Loop Studio](https://theloopstudio.org).
+Real businesses, online today. I built them at [Loop Studio](https://theloopstudio.org).
 
 <table>
   <tr>
@@ -95,11 +95,13 @@ Experiments I built to understand how things work, now living in the [Lab](https
 
 ## Repositories
 
-A few of the repositories I'm happy to show. The older exercises and the client work in progress are private or archived.
+A few of the repositories I'm happy to show, mine and the studio's. The older exercises and the client work in progress are private or archived.
 
 | Repository | What it is |
 |---|---|
 | **[Domenico](https://github.com/Domenico85/Domenico)** | My personal page: Astro, GSAP, hand-written WebGL2. [Live](https://domenico85.github.io/Domenico/) |
+| **[lab](https://github.com/Loop-Studio-Web/lab)** | The studio's Lab: 28 components and the experiments above, plain static files you can read. [Live](https://loop-studio-web.github.io/lab/) |
+| **[vetrine](https://github.com/Loop-Studio-Web/vetrine)** | Full-page homepage concepts for local businesses, built with Astro. [Live](https://vetrine.theloopstudio.org/) |
 | **[Meal-Planner](https://github.com/Domenico85/Meal-Planner)** | A weekly meal planner with shopping list, pantry and budget. React 19, Vite, Tailwind 4. The React project I still like the most. |
 | **[React-Rhythm-Sync](https://github.com/Domenico85/React-Rhythm-Sync)** | A minimal music player for your own audio files. React, Vite, Tailwind. |
 | **[react-portfolio](https://github.com/Domenico85/react-portfolio)** | An animated developer portfolio. React, Tailwind. |
